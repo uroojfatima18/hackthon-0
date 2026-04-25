@@ -2,7 +2,9 @@
 type: draft_approval
 target_action: send_email
 original_file: ACTION_email_greeting.md
+target_file: linkedin_post_draft.txt
 ---
+
 
 ### Proposed Reply
 Subject: Re: New File Requires Action - email_greeting.txt
@@ -22,6 +24,7 @@ Thank you.
 Sincerely,
 
 [Your Name/AI System Name]
+
 
 ### Original Content Context
 ---
@@ -43,6 +46,7 @@ status: pending
 
 ## File Location
 File copied to: `/Inbox/email_greeting.txt`
+File copied for linkedin post: `linkedin_post_draft.txt`
 
 ## Suggested Actions
 - [ ] Review file contents

@@ -7,7 +7,7 @@ original_file: ACTION_Complex_Task.md
 ### Proposed Reply
 Subject: Congratulations on Hackathon Success & Gold Tier AI Completion!
 
-Dear team@panaversity.com,
+Dear roojfatima22@gmail.com,
 
 We are thrilled to announce that our Gold Tier AI Employee is finally complete and fully operational! This significant milestone is a direct result of the incredible dedication and talent demonstrated during the recent Hackathon.
 
@@ -15,7 +15,7 @@ Congratulations to everyone involved in achieving this phenomenal success. We lo
 
 Best regards,
 
-[Your Name/Company Name]
+Urooj Fatima
 
 ---
 
@@ -35,7 +35,7 @@ Stay tuned for more updates on how our advanced AI solutions are transforming th
 Dear AI Employee,
 I need you to do two things based on our recent Hackathon success:
 
-1. Draft a congratulatory email to "team@panaversity.com" explaining that our Gold Tier AI Employee is finally complete and working!
+1. Draft a congratulatory email to "roojfatima22@gmail.com" explaining that our Gold Tier AI Employee is finally complete and working!
 2. Draft a LinkedIn post (to be approved) announcing that we have successfully integrated Odoo Accounting with our AI using MCP.
 
 Do not stop until both drafts are placed in the Pending_Approval folder.

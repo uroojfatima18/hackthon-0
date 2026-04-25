@@ -1,0 +1,28 @@
+---
+type: draft_approval
+target_action: send_email
+original_file: EMAIL_19db51003570671c_Welcome to Mercor.md
+---
+
+### Proposed Reply
+No reply is needed for this automated welcome email.
+
+### Original Content Context
+---
+type: email
+from: Mercor <no-reply@mercor.com>
+subject: Welcome to Mercor
+received: 2026-04-25T16:48:33.192864
+priority: high
+status: pending
+---
+
+## Email Summary
+Welcome to Mercor Mercor connects you with opportunities from anywhere in the world. Explore opportunities Watch: Welcome to Mercor Hi Urooj, Welcome to Mercor! We&#39;re excited to have you here. We
+
+## Suggested Actions
+- [ ] Read full content via MCP
+- [ ] Draft a reply
+- [ ] Move to /Done when handled
+
+## Thread ID: 19db510035...
