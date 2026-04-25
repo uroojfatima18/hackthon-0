@@ -1,0 +1,9 @@
+Just wrapped up my latest hackathon project, and I'm thrilled to share what I've built! 🚀
+
+I've successfully created a Personal AI Employee – a local-first, agent-driven system designed to manage personal and business affairs, 24/7. My secret sauce? Claude Code and Obsidian. This intelligent assistant is a game-changer for anyone looking to supercharge their productivity and streamline their daily life. 🌟
+
+I believe AI isn't just about large-scale solutions; it's also about empowering individuals. This project is a testament to the power of combining cutting-edge AI with personal productivity tools. Getting this off the ground has been an incredibly rewarding experience. ✅
+
+What are your thoughts on AI personal assistants? Let me know in the comments!
+
+#AI #Automation #AIEmployee #Hackathon #BuildInPublic

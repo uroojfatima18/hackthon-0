@@ -1,0 +1,18 @@
+---
+type: email
+from: Jenpharm <cs@jenpharm.com>
+subject: A shipment from order #2853861 is out for delivery
+received: 2026-04-25T10:52:05.309001
+priority: high
+status: pending
+---
+
+## Email Summary
+Order #2853861 Your order is out for delivery Your order is out for delivery. Track your shipment to see the delivery status. Track my shipment or Visit our store PostEx C tracking number:
+
+## Suggested Actions
+- [ ] Read full content via MCP
+- [ ] Draft a reply
+- [ ] Move to /Done when handled
+
+## Thread ID: 19c8e0b61fed5d3e

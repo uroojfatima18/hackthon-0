@@ -1,0 +1,18 @@
+---
+type: email
+from: Ojiiz <info@ojiiz.com>
+subject: Welcome to Ojiiz — You're In!
+received: 2026-04-25T10:51:57.320753
+priority: high
+status: pending
+---
+
+## Email Summary
+Ojiiz Welcome to Ojiiz, urooj! Your account has been verified and you&#39;re all set to get started. Ojiiz helps you discover and unlock the best job opportunities and projects — all in one place. What
+
+## Suggested Actions
+- [ ] Read full content via MCP
+- [ ] Draft a reply
+- [ ] Move to /Done when handled
+
+## Thread ID: 19d67bd1220f62a5

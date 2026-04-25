@@ -1,0 +1,18 @@
+---
+type: email
+from: "jesper@dspotmedia.com" <jesper@dspotmedia.com>
+subject: How founders usually approach the next step
+received: 2026-04-25T10:52:09.881329
+priority: high
+status: pending
+---
+
+## Email Summary
+Here&#39;s how founders typically approach this stage. Not with: “I want more tactics.” But with: “I want to understand what&#39;s actually broken.” That&#39;s why I don&#39;t start with selling
+
+## Suggested Actions
+- [ ] Read full content via MCP
+- [ ] Draft a reply
+- [ ] Move to /Done when handled
+
+## Thread ID: 19bfbf8e7030a020

@@ -1,0 +1,11 @@
+{
+  "skills": {
+    "path": "Skills",
+    "enabled": true,
+    "auto_load": true
+  },
+  "workspace": {
+    "vault_path": "D:/Urooj/Hackthon 0/AI_Employee_Vault",
+    "auto_save": true
+  }
+}

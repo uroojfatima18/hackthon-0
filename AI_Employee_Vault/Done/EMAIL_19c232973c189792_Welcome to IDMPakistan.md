@@ -1,0 +1,18 @@
+---
+type: email
+from: Shoaib Ahmed <no-reply@notifications.leadpages.com>
+subject: Welcome to IDMPakistan
+received: 2026-04-25T10:52:07.903946
+priority: high
+status: pending
+---
+
+## Email Summary
+Welcome to IDMPakistan Assalamo Alaikum, Welcome to the family of digital marketers! You are registered for my digital marketing class at 3:00 pm (on Saturday, 14 June 2025) To join the live class
+
+## Suggested Actions
+- [ ] Read full content via MCP
+- [ ] Draft a reply
+- [ ] Move to /Done when handled
+
+## Thread ID: 19c232973c189792

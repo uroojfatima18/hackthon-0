@@ -1,0 +1,19 @@
+.env
+.venv/
+__pycache__/
+.mypy_cache/
+.vscode/
+
+# Sensitive data
+token.json
+credentials.json
+audit_logs.db
+odoo_mock_db.json
+
+# Tool Data
+.playwright_data/
+mcp_servers/gmail/node_modules/
+
+# OS generated files
+.DS_Store
+Thumbs.db
