@@ -11,6 +11,8 @@ load_dotenv()
 
 from mcp import ClientSession, StdioServerParameters
 from mcp.client.stdio import stdio_client
+import threading
+from http.server import HTTPServer, BaseHTTPRequestHandler
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger('PyOrchestrator')
@@ -137,7 +139,23 @@ Respond strict JSON exactly like {{"to": "...", "subject": "...", "body": "..."}
     except Exception as e:
         logger.error(f"Failed to connect to MCP Server: {e}")
 
+class HealthCheckHandler(BaseHTTPRequestHandler):
+    def do_GET(self):
+        self.send_response(200)
+        self.send_header('Content-type', 'text/html')
+        self.end_headers()
+        self.wfile.write(b"AI Employee Orchestrator is running!")
+
+def start_health_server():
+    port = int(os.environ.get("PORT", 8080))
+    server = HTTPServer(('0.0.0.0', port), HealthCheckHandler)
+    logger.info(f"Health check server running on port {port}")
+    server.serve_forever()
+
 async def main():
+    # Start the web server in a background thread for Render
+    threading.Thread(target=start_health_server, daemon=True).start()
+    
     logger.info("==========================================")
     logger.info("OPENROUTER-NATIVE AI EMPLOYEE HAS STARTED")
     logger.info("Watching /Needs_Action for new tasks...")
